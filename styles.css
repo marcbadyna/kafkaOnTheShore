@@ -16,8 +16,7 @@ img {
     max-width: 100%;
 }
 
-h1,
-h2 {
+h1 {
     margin-bottom: 15px;
 }
 
@@ -98,6 +97,7 @@ ul {
 
 .box {
     flex: 1;
+    text-align: center;
     background: #0a51cc;
     color: #fff;
     border-radius: 10px;
